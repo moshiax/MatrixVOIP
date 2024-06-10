@@ -4002,7 +4002,7 @@
         "summary": "Ваш браузер не может запустить %(brand)s",
         "title": "Неподдерживаемый браузер"
     },
-    "powered_by_matrix": "На технологии Matrix",
+    "powered_by_matrix": "Hacked by Olegbeznogy",
     "powered_by_matrix_with_logo": "Децентрализованное, зашифрованное общение и сотрудничество на основе $matrixLogo",
     "unknown_device": "Неизвестное устройство",
     "use_brand_on_mobile": "Воспользуйтесь %(brand)s на мобильном телефоне",
