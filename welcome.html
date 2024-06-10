@@ -25,7 +25,38 @@ h1::after {
     align-items: center;
     text-align: center;
     padding: 25px 35px;
-    color: #ffffff; /* White text */
+    color: #ffffff; /* Белый текст */
+    background-color: #000000; /* Черный фон */
+    border: none; /* Убираем обводку */
+}
+
+.mx_ButtonParent {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 10px 20px;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border-radius: 4px;
+    width: 150px;
+    background-repeat: no-repeat;
+    background-position: 10px center;
+    text-decoration: none;
+    color: #ffffff !important; /* Белый текст */
+    background-color: #333333; /* Темный фон кнопки */
+    border: none; /* Убираем обводку */
 }
 
 .mx_Logo {
@@ -63,34 +94,6 @@ h1::after {
 
 .mx_ButtonRow > *:last-child {
     margin-right: 0;
-}
-
-.mx_ButtonParent {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    padding: 10px 20px;
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
-    -webkit-flex-direction: row;
-    -ms-flex-direction: row;
-    flex-direction: row;
-    -webkit-box-pack: center;
-    -webkit-justify-content: center;
-    -ms-flex-pack: center;
-    justify-content: center;
-    -webkit-box-align: center;
-    -webkit-align-items: center;
-    -ms-flex-align: center;
-    align-items: center;
-
-    width: 150px;
-    background-repeat: no-repeat;
-    background-position: 10px center;
-    text-decoration: none;
-    color: #ffffff !important; /* White text */
-    background-color: #333333; /* Darker button background */
 }
 
 .mx_ButtonLabel {
