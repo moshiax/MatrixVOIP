@@ -10,7 +10,10 @@
     },
     "disable_custom_urls": false,
     "disable_guests": false,
+	"disable_theme_selector": true
+	"disable_custom_themes": true
     "disable_login_language_selector": true,
+    "disable_language_selector": true,
     "disable_3pid_login": false,
     "brand": "Тихий Дом",
     "integrations_ui_url": "https://scalar.vector.im/",
