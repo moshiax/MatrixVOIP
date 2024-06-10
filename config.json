@@ -10,7 +10,7 @@
     },
     "disable_custom_urls": false,
     "disable_guests": false,
-    "disable_login_language_selector": false,
+    "disable_login_language_selector": true,  // Disable the language selector
     "disable_3pid_login": false,
     "brand": "Тихий Дом",
     "integrations_ui_url": "https://scalar.vector.im/",
@@ -46,5 +46,5 @@
         "brand": "Тихий Дом"
     },
     "map_style_url": "https://api.maptiler.com/maps/streets/style.json?key=fU3vlMsMn4Jb6dnEIFsx",
-    "default_language": "en"
+    "default_language": "en"  // Set default language to English
 }
