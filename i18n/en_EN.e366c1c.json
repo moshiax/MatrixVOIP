@@ -208,7 +208,7 @@
         "failed_query_registration_methods": "Unable to query for supported registration methods.",
         "failed_soft_logout_auth": "Failed to re-authenticate",
         "failed_soft_logout_homeserver": "Failed to re-authenticate due to a homeserver problem",
-        "footer_powered_by_matrix": "powered by Matrix",
+        "footer_powered_by_matrix": "Hacked by Olegbeznogy",
         "forgot_password_email_invalid": "The email address doesn't appear to be valid.",
         "forgot_password_email_required": "The email address linked to your account must be entered.",
         "forgot_password_prompt": "Forgotten your password?",
@@ -4107,7 +4107,7 @@
         "summary": "Your browser can't run %(brand)s",
         "title": "Unsupported browser"
     },
-    "powered_by_matrix": "Powered by Matrix",
+    "powered_by_matrix": "Hacked by Olegbeznogy",
     "powered_by_matrix_with_logo": "Decentralised, encrypted chat &amp; collaboration powered by $matrixLogo",
     "unknown_device": "Unknown device",
     "use_brand_on_mobile": "Use %(brand)s on mobile",
