@@ -576,7 +576,7 @@
     "video_room": "Video room",
     "view_message": "View message",
     "warning": "Warning",
-    "welcome": "Welcome"
+    "welcome": "Тихий Дом"
   },
     "composer": {
         "autocomplete": {
@@ -1687,9 +1687,9 @@
         "use_case_heading3": "We'll help you get connected.",
         "use_case_personal_messaging": "Friends and family",
         "use_case_work_messaging": "Coworkers and teams",
-        "welcome_detail": "Now, let's help you get started",
+        "welcome_detail": "Добро пожаловать в осознанный сон",
         "welcome_to_brand": "Welcome to %(brand)s",
-        "welcome_user": "Welcome %(name)s",
+        "welcome_user": "Тихий Дом",
         "work_messaging_action": "Find your co-workers",
         "work_messaging_title": "Secure messaging for work",
         "you_did_it": "You did it!",
