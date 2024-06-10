@@ -608,9 +608,9 @@
         "stop_voice_message": "Остановить запись",
         "voice_message_button": "Голосовое сообщение"
     },
-    "console_dev_note": "Если вы знаете, что делаете, Element с открытым исходным кодом, обязательно зайдите на наш GitHub (https://github.com/vector-im/element-web/) и внесите свой вклад!",
-    "console_scam_warning": "Если кто-то сказал вам скопировать/вставить что-то здесь, велика вероятность, что вас пытаются обмануть!",
-    "console_wait": "Подождите!",
+    "console_dev_note": "",
+    "console_scam_warning": "НЕ ПЫТАЙТЕСb ЧТО-Т0 N3MEHИТЬ!",
+    "console_wait": "N! SINGAQ",
     "create_room": {
         "action_create_room": "Создать комнату",
         "action_create_video_room": "Создать видеокомнату",
