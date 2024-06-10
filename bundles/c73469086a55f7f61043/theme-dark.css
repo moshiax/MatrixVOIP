@@ -19,3 +19,6 @@
 .mx_ThemeChoicePanel_themeSelectors {
     display: none;
 }
+.mx_Tooltip_chevron {
+	    display: none;
+}
