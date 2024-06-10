@@ -1669,7 +1669,7 @@
         "has_avatar_label": "Great, that'll help people know it's you",
         "intro_byline": "Own your conversations.",
         "intro_welcome": "Welcome to %(appName)s",
-        "no_avatar_label": "Add a photo so people know it's you.",
+        "no_avatar_label": " ",
         "only_n_steps_to_go": {
             "one": "Only %(count)s step to go",
             "other": "Only %(count)s steps to go"
