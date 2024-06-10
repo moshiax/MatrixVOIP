@@ -25,11 +25,46 @@ h1::after {
     align-items: center;
     text-align: center;
     padding: 25px 35px;
-    color: #ffffff; /* Белый текст */
-    background-color: transparent !important; 
-    border: none; /* Убираем обводку */
+    color: #ffffff; /* White text */
+    background-color: #000000; /* Black background */
 }
 
+.mx_Logo {
+    height: 54px;
+    margin-top: 2px;
+}
+
+.mx_ButtonGroup {
+    margin-top: 10px;
+}
+
+.mx_ButtonRow {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-justify-content: space-around;
+    -ms-flex-pack: distribute;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+    margin: 12px 0 0;
+}
+
+.mx_ButtonRow > * {
+    margin: 0 10px;
+}
+
+.mx_ButtonRow > *:first-child {
+    margin-left: 0;
+}
+
+.mx_ButtonRow > *:last-child {
+    margin-right: 0;
+}
 
 .mx_ButtonParent {
     display: -webkit-box;
@@ -55,46 +90,8 @@ h1::after {
     background-repeat: no-repeat;
     background-position: 10px center;
     text-decoration: none;
-    background-color: transparent !important; /* Прозрачный фон кнопок */
-    color: inherit !important; /* Используем цвет текста, унаследованный от родительского элемента */
-    border: none !important; /* Убираем обводку кнопок */
-}
-
-.mx_Logo {
-    height: 54px;
-    margin-top: 2px;
-}
-
-.mx_ButtonGroup {
-    margin-top: 10px;
-}
-
-.mx_ButtonRow {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-justify-content: space-around;
-    -ms-flex-pack: distribute;
-    -webkit-box-align: center;
-    -webkit-align-items: center;
-    -ms-flex-align: center;
-    align-items: center;
-    justify-content: space-between;
-
-    margin: 12px 0 0;
-}
-
-.mx_ButtonRow > * {
-    margin: 0 10px;
-}
-
-.mx_ButtonRow > *:first-child {
-    margin-left: 0;
-}
-
-.mx_ButtonRow > *:last-child {
-    margin-right: 0;
+    color: #ffffff !important; /* White text */
+    background-color: #333333; /* Darker button background */
 }
 
 .mx_ButtonLabel {
