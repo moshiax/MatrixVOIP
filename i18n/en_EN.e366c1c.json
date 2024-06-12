@@ -715,7 +715,7 @@
     "subspace_join_rule_restricted_description": "Anyone in <SpaceName/> will be able to find and join."
   },
   "credits": {
-    "default_cover_photo": "<author>Olegbeznogy</author>",
+    "default_cover_photo": "<terms>Olegbeznogy</terms>",
     "twemoji": "<twemoji>Антошка Кукловод</twemoji>",
     "twemoji_colr": "<colr>Анзор Пасечник</colr>"
   },
