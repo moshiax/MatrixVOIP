@@ -2513,7 +2513,7 @@
       "identity_server_no_token": "No identity access token found",
       "identity_server_not_set": "Identity server not set",
       "incorrect_msisdn_verification": "Incorrect verification code",
-      "language_section": "Language and region",
+      "language_section": " ",
       "msisdn_in_use": "This phone number is already in use",
       "msisdn_label": "Phone Number",
       "msisdn_verification_field_label": "Verification code",
