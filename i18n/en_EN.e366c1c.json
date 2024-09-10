@@ -1667,8 +1667,8 @@
     "get_stuff_done": "Get stuff done by finding your teammates",
     "google_trademarks": "Google Play and the Google Play logo are trademarks of Google LLC.",
     "has_avatar_label": "Great, that'll help people know it's you",
-    "intro_byline": " ",
-    "intro_welcome": "Welcome to %(appName)s",
+    "intro_byline": "Добро пожаловать в осознанный сон",
+    "intro_welcome": "%(appName)s",
     "no_avatar_label": " ",
     "only_n_steps_to_go": {
       "one": "Only %(count)s step to go",
